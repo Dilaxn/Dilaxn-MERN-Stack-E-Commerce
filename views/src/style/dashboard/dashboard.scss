@@ -1,0 +1,15 @@
+.welcome-dashboard {
+  .welcome {
+    min-height: 600px;
+    background-image: url("./../../assets/pictures/welcome.jpg");
+    text-align: center;
+    h1 {
+      text-align: center;
+      margin-top: 50px;
+      font-weight: 700;
+    }
+    @media only screen and (max-width: 379px) {
+      min-height: 200px;
+    }
+  }
+}

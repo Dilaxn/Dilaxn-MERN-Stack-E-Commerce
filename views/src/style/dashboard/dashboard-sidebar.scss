@@ -1,0 +1,37 @@
+.dashboard-settings {
+  margin-top: -20px;
+  margin-left: -40px;
+
+  .category {
+    margin-top: 20px;
+    list-style: none;
+
+    h1 {
+      color: #123;
+      display: inline;
+    }
+    i {
+      margin-right: 15px;
+      font-size: 20px;
+    }
+
+    ul {
+      margin-left: -15px;
+      background-color: #fff;
+
+      li {
+        padding: 10px 0;
+        border: 0px solid #123;
+        list-style: none;
+        margin-left: -40px;
+        list-style: none;
+font-weight: 500;
+        a {
+          color: #123;
+          margin-left: 15px;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
